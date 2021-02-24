@@ -1,0 +1,16 @@
+
+
+.navtop > div {
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    
+}
+
+.nav1 {
+    flex-grow: 2;
+    text-align: right;
+    height: 98px;
+    line-height: 98px;
+    
+}
